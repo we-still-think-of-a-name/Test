@@ -1,0 +1,12 @@
+h1 {
+    position: fixed;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 100px;
+    color: white;
+    position: absolute;
+}
+body {
+    background-color: black;
+}
